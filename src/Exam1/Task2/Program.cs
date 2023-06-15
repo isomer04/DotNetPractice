@@ -23,6 +23,9 @@ class Program
         chessPieceModel1.MoveTo();
         chessPieceModel2.MoveTo();
 
+        ChessPieceModel2 king2 = new King();
+        king2.BoxMovingInfo();
+
         /*
 
         Console.WriteLine("Write the name of piece");

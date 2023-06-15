@@ -19,6 +19,20 @@ namespace Task2
             Console.WriteLine("This Piece name is " + Name + ". It can move to " + BoxMovingNumber + " box");
         }
     }
+
+    abstract class ChessPieceModel2
+    {
+        public string Name { get; set; }
+        public abstract void BoxMovingInfo();
+    }
+
+    class King : ChessPieceModel2
+    {
+        public override void BoxMovingInfo()
+        {
+            Console.WriteLine("King moves only 1 box");
+        }
+    }
 }
 
 
