@@ -1,0 +1,15 @@
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\bin\Debug\net7.0\Task2.exe
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\bin\Debug\net7.0\Task2.dll
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\bin\Debug\net7.0\Task2.pdb
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.csproj.AssemblyReference.cache
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.dll
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.pdb
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\Users\isome\Desktop\c#\csharp-b14\src\Exam1\Task2\obj\Debug\net7.0\ref\Task2.dll
