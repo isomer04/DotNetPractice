@@ -1,6 +1,7 @@
 ﻿//In this task, you have to create an object oriented design (Class, method, etc.) of a Chess game. [Score: 50]
 
 using System;
+using Task2;
 
 class Program
 {
@@ -35,26 +36,3 @@ class Program
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-public class ChessPieceModel
-{
-    public string Name { get; set; }
-    public float BoxMovingNumber { get; set; }
-
-
-
-    public void MoveTo()
-    {
-        Console.WriteLine("This Piece name is " + Name + ". It can move to " + BoxMovingNumber + " box");
-    }
-}
-
