@@ -14,15 +14,22 @@ class Program
         {
             char c = inputString[i];
 
-            if(char.IsUpper(c)) {  upper++; } else if(char.IsLower(c)) {  lower++; }
-            
+            if (char.IsUpper(c))
+            {
+                upper++;
+            }
+            else if (char.IsLower(c))
+            {
+                lower++;
+            }
 
         }
 
-        if(upper > lower)
+        if (upper > lower)
         {
             inputString = inputString.ToUpper();
-        } else { inputString = inputString.ToLower(); }
+        }
+        else { inputString = inputString.ToLower(); }
 
 
 
