@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Elephant\\Elephant.csproj",
+      "projectUniqueName": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Elephant\\Elephant.csproj",
       "projectName": "Elephant",
-      "projectPath": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Elephant\\Elephant.csproj",
+      "projectPath": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Elephant\\Elephant.csproj",
       "packagesPath": "C:\\Users\\isome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Elephant\\obj\\",
+      "outputPath": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Elephant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isome\\AppData\\Roaming\\NuGet\\NuGet.Config",

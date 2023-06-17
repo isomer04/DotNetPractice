@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Boy or Girl\\Boy or Girl.csproj",
+      "projectUniqueName": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Boy or Girl\\Boy or Girl.csproj",
       "projectName": "Boy or Girl",
-      "projectPath": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Boy or Girl\\Boy or Girl.csproj",
+      "projectPath": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Boy or Girl\\Boy or Girl.csproj",
       "packagesPath": "C:\\Users\\isome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Boy or Girl\\obj\\",
+      "outputPath": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Boy or Girl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isome\\AppData\\Roaming\\NuGet\\NuGet.Config",

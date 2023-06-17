@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Translation\\Translation.csproj",
+      "projectUniqueName": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Translation\\Translation.csproj",
       "projectName": "Translation",
-      "projectPath": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Translation\\Translation.csproj",
+      "projectPath": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Translation\\Translation.csproj",
       "packagesPath": "C:\\Users\\isome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isome\\Desktop\\csharp\\coding problem soving\\ConsoleApp1\\Translation\\obj\\",
+      "outputPath": "C:\\Users\\isome\\Desktop\\csharp\\DotNetPractice\\coding problem soving\\ConsoleApp1\\Translation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isome\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ConsoleApp1",
+    "\\ConsoleApp1\\Elephant",
     "\\ConsoleApp1\\Translation"
   ],
-  "SelectedNode": "\\ConsoleApp1\\BoyOrGirl",
+  "SelectedNode": "\\ConsoleApp1\\Elephant\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

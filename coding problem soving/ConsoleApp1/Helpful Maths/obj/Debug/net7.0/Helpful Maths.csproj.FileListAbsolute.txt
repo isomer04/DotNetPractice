@@ -1,0 +1,15 @@
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\bin\Debug\net7.0\Helpful Maths.exe
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\bin\Debug\net7.0\Helpful Maths.deps.json
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\bin\Debug\net7.0\Helpful Maths.runtimeconfig.json
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\bin\Debug\net7.0\Helpful Maths.dll
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\bin\Debug\net7.0\Helpful Maths.pdb
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.csproj.AssemblyReference.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.AssemblyInfoInputs.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.AssemblyInfo.cs
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.csproj.CoreCompileInputs.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.dll
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\refint\Helpful Maths.dll
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.pdb
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\Helpful Maths.genruntimeconfig.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Helpful Maths\obj\Debug\net7.0\ref\Helpful Maths.dll
