@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elephant", "Elephant\Elepha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translation", "Translation\Translation.csproj", "{86D989C4-2C6A-43DA-99B1-B21D3FABE67D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpful Maths", "Helpful Maths\Helpful Maths.csproj", "{E3683F80-FC1A-4C77-8575-072E4791499F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpful Maths", "Helpful Maths\Helpful Maths.csproj", "{E3683F80-FC1A-4C77-8575-072E4791499F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word", "Word\Word.csproj", "{5C62D8E8-4CC4-4E84-886F-5D1CC5C0ABD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word", "Word\Word.csproj", "{5C62D8E8-4CC4-4E84-886F-5D1CC5C0ABD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nearly Lucky Number", "Nearly Lucky Number\Nearly Lucky Number.csproj", "{3E26DEEE-DB4A-4FD6-B1D0-0A2A614EBC77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nearly Lucky Number", "Nearly Lucky Number\Nearly Lucky Number.csproj", "{3E26DEEE-DB4A-4FD6-B1D0-0A2A614EBC77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bear and Big Brother", "Bear and Big Brother\Bear and Big Brother.csproj", "{247B15C8-9236-474C-83E6-F8C941DEBC52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3E26DEEE-DB4A-4FD6-B1D0-0A2A614EBC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E26DEEE-DB4A-4FD6-B1D0-0A2A614EBC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E26DEEE-DB4A-4FD6-B1D0-0A2A614EBC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247B15C8-9236-474C-83E6-F8C941DEBC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247B15C8-9236-474C-83E6-F8C941DEBC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247B15C8-9236-474C-83E6-F8C941DEBC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247B15C8-9236-474C-83E6-F8C941DEBC52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
