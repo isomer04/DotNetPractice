@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "In Search of an Easy Proble
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculating Function", "Calculating Function\Calculating Function.csproj", "{ECA1C91C-F913-4446-B9C0-BCEFA23E82E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drinks", "Drinks\Drinks.csproj", "{B97C22F5-0896-4393-86FC-718BD78B4259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{ECA1C91C-F913-4446-B9C0-BCEFA23E82E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECA1C91C-F913-4446-B9C0-BCEFA23E82E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECA1C91C-F913-4446-B9C0-BCEFA23E82E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97C22F5-0896-4393-86FC-718BD78B4259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97C22F5-0896-4393-86FC-718BD78B4259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97C22F5-0896-4393-86FC-718BD78B4259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97C22F5-0896-4393-86FC-718BD78B4259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
