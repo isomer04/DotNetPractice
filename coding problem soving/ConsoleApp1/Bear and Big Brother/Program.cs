@@ -1,19 +1,19 @@
-﻿using System;
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
         string[] weights = Console.ReadLine().Split();
 
-        int a = int.Parse(weights[0]);
-        int b = int.Parse(weights[1]);
+        int limak = int.Parse(weights[0]);
+        int bob = int.Parse(weights[1]);
 
         int years = 0;
-        while (a <= b)
+
+        while (limak <= bob)
         {
-            a *= 3;
-            b *= 2;
+            limak *= 3;
+            bob *= 2;
+
             years++;
         }
 
