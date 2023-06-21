@@ -2,23 +2,19 @@
 {
     static void Main(string[] args)
     {
-        int inputDigit1 = int.Parse(Console.ReadLine());
+        long inputDigit1 = long.Parse(Console.ReadLine());
 
 
-        int result = 0;
+        long result = 0;
 
-        for(int i = 1; i< inputDigit1+1; i++)
         {
-            if(i % 2 == 0)
+            if(inputDigit1 % 2 == 0)
             {
-                result += i;
-
-
-
+                result = inputDigit1 /2;
             }
             else
             {
-                result -= i;
+                result = -(inputDigit1 + 1) /2;
 
 
             }
