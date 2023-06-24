@@ -2,18 +2,18 @@
 {
     static void Main(string[] args)
     {
-        int inputDigit1 = int.Parse(Console.ReadLine());
-        string[] input = Console.ReadLine().Split(' ');
+        int numberOfDrink = int.Parse(Console.ReadLine());
+        string[] orangeJuicesInFraction = Console.ReadLine().Split(' ');
 
 
         double responses = 0;
 
-        for (int i = 0; i < inputDigit1; i++)
+        for (int i = 0; i < numberOfDrink; i++)
         {
-            responses += int.Parse(input[i]);
+            responses += int.Parse(orangeJuicesInFraction[i]);
         }
 
-        responses = responses / inputDigit1;
+        responses = responses / numberOfDrink;
 
         Console.WriteLine(responses);
 

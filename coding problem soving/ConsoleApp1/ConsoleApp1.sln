@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculating Function", "Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drinks", "Drinks\Drinks.csproj", "{B97C22F5-0896-4393-86FC-718BD78B4259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{E1989F71-C96B-4049-8FD7-39E23999B361}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B97C22F5-0896-4393-86FC-718BD78B4259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B97C22F5-0896-4393-86FC-718BD78B4259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B97C22F5-0896-4393-86FC-718BD78B4259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1989F71-C96B-4049-8FD7-39E23999B361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1989F71-C96B-4049-8FD7-39E23999B361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1989F71-C96B-4049-8FD7-39E23999B361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1989F71-C96B-4049-8FD7-39E23999B361}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
