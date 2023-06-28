@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fox And Snake", "Fox And Sn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain's Photos", "Brain's Photos\Brain's Photos.csproj", "{FA9A3D46-883F-4913-B3A4-1789F12085CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft Drinking", "Soft Drinking\Soft Drinking.csproj", "{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FA9A3D46-883F-4913-B3A4-1789F12085CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA9A3D46-883F-4913-B3A4-1789F12085CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA9A3D46-883F-4913-B3A4-1789F12085CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
