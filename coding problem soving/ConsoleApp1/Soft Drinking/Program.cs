@@ -8,14 +8,14 @@ class Program
         int numOfFriends = int.Parse(inputArr[0]);
         int numberOfBottles = int.Parse(inputArr[1]);
         int millilitersBottles = int.Parse(inputArr[2]);
-        int numberOfLimes = int.Parse(inputArr[3]);
+        int numOfLimes = int.Parse(inputArr[3]);
         int slicesPerLime = int.Parse(inputArr[4]);
         int totalSalt = int.Parse(inputArr[5]);
         int millitersPerToast = int.Parse(inputArr[6]);
         int gramsOfSaltPerToast = int.Parse(inputArr[7]);
 
         int totalDrink = numberOfBottles * millilitersBottles;
-        int totalLimes = numberOfLimes * slicesPerLime;
+        int totalLimes = numOfLimes * slicesPerLime;
 
         int maxToasts = Math.Min(totalDrink / (numOfFriends * millitersPerToast),
             Math.Min(totalLimes / numOfFriends,
