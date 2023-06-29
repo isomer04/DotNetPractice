@@ -17,31 +17,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word", "Word\Word.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nearly Lucky Number", "Nearly Lucky Number\Nearly Lucky Number.csproj", "{3E26DEEE-DB4A-4FD6-B1D0-0A2A614EBC77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bear and Big Brother", "Bear and Big Brother\Bear and Big Brother.csproj", "{247B15C8-9236-474C-83E6-F8C941DEBC52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bear and Big Brother", "Bear and Big Brother\Bear and Big Brother.csproj", "{247B15C8-9236-474C-83E6-F8C941DEBC52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangram", "Pangram\Pangram.csproj", "{B78B5D3D-F5A6-4F70-A84C-05F2E14ED4C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "Pangram\Pangram.csproj", "{B78B5D3D-F5A6-4F70-A84C-05F2E14ED4C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Again Twenty Five!", "Again Twenty Five!\Again Twenty Five!.csproj", "{3F7D84C5-9771-4B82-9AE8-4F372A93A9D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Again Twenty Five!", "Again Twenty Five!\Again Twenty Five!.csproj", "{3F7D84C5-9771-4B82-9AE8-4F372A93A9D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wrong Substraction", "Wrong Substraction\Wrong Substraction.csproj", "{4C3E2EE8-6603-4371-A2CD-A877675B2DE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wrong Substraction", "Wrong Substraction\Wrong Substraction.csproj", "{4C3E2EE8-6603-4371-A2CD-A877675B2DE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "In Search of an Easy Problem", "In Search of an Easy Problem\In Search of an Easy Problem.csproj", "{439B08CD-A0B0-4BC9-AF68-432A2FA03BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "In Search of an Easy Problem", "In Search of an Easy Problem\In Search of an Easy Problem.csproj", "{439B08CD-A0B0-4BC9-AF68-432A2FA03BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculating Function", "Calculating Function\Calculating Function.csproj", "{ECA1C91C-F913-4446-B9C0-BCEFA23E82E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculating Function", "Calculating Function\Calculating Function.csproj", "{ECA1C91C-F913-4446-B9C0-BCEFA23E82E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drinks", "Drinks\Drinks.csproj", "{B97C22F5-0896-4393-86FC-718BD78B4259}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drinks", "Drinks\Drinks.csproj", "{B97C22F5-0896-4393-86FC-718BD78B4259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{E1989F71-C96B-4049-8FD7-39E23999B361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum", "Sum\Sum.csproj", "{E1989F71-C96B-4049-8FD7-39E23999B361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black Square", "Black Square\Black Square.csproj", "{3427CC9B-BEE7-4AEC-8523-FF6E6EB3355B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Black Square", "Black Square\Black Square.csproj", "{3427CC9B-BEE7-4AEC-8523-FF6E6EB3355B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fox And Snake", "Fox And Snake\Fox And Snake.csproj", "{BFC83746-CDD8-4D6B-92C0-0FF3DBB5B8B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fox And Snake", "Fox And Snake\Fox And Snake.csproj", "{BFC83746-CDD8-4D6B-92C0-0FF3DBB5B8B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain's Photos", "Brain's Photos\Brain's Photos.csproj", "{FA9A3D46-883F-4913-B3A4-1789F12085CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brain's Photos", "Brain's Photos\Brain's Photos.csproj", "{FA9A3D46-883F-4913-B3A4-1789F12085CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft Drinking", "Soft Drinking\Soft Drinking.csproj", "{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soft Drinking", "Soft Drinking\Soft Drinking.csproj", "{7753FC88-A2E6-44B6-A3DE-BA7A1883BE98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division", "Division\Division.csproj", "{A9F82036-05F6-4191-8ABC-805CBB9A3AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division\Division.csproj", "{A9F82036-05F6-4191-8ABC-805CBB9A3AED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ordinary Numbers", "Ordinary Numbers\Ordinary Numbers.csproj", "{33AF6822-F818-4184-B041-036C2FF378A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floor Number", "Floor Number\Floor Number.csproj", "{13C09F36-BDB7-4CC7-A8C2-FE7C10B7E641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky", "Lucky\Lucky.csproj", "{BB1EC340-B6FC-4193-91EF-1392E5F06287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +135,18 @@ Global
 		{A9F82036-05F6-4191-8ABC-805CBB9A3AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9F82036-05F6-4191-8ABC-805CBB9A3AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9F82036-05F6-4191-8ABC-805CBB9A3AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AF6822-F818-4184-B041-036C2FF378A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AF6822-F818-4184-B041-036C2FF378A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AF6822-F818-4184-B041-036C2FF378A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AF6822-F818-4184-B041-036C2FF378A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C09F36-BDB7-4CC7-A8C2-FE7C10B7E641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C09F36-BDB7-4CC7-A8C2-FE7C10B7E641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C09F36-BDB7-4CC7-A8C2-FE7C10B7E641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C09F36-BDB7-4CC7-A8C2-FE7C10B7E641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1EC340-B6FC-4193-91EF-1392E5F06287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1EC340-B6FC-4193-91EF-1392E5F06287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1EC340-B6FC-4193-91EF-1392E5F06287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1EC340-B6FC-4193-91EF-1392E5F06287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

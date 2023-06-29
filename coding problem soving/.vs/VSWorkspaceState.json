@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1",
-    "\\ConsoleApp1\\Elephant",
-    "\\ConsoleApp1\\Translation"
+    "\\ConsoleApp1"
   ],
-  "SelectedNode": "\\ConsoleApp1\\Elephant\\Program.cs",
+  "SelectedNode": "\\ConsoleApp1",
   "PreviewInSolutionExplorer": false
 }
