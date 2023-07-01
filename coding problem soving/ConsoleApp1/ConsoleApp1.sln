@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petya and Strings", "Petya 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Elevators", "Two Elevators\Two Elevators.csproj", "{B09527ED-302B-4F79-A97C-3F05B7EE1FB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple", "Triple\Triple.csproj", "{36A1ED13-3BFD-45BD-912A-A6954916C3B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathon", "Marathon\Marathon.csproj", "{AF737B27-FAE1-41BD-B0F6-44E1BC1088F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{B09527ED-302B-4F79-A97C-3F05B7EE1FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B09527ED-302B-4F79-A97C-3F05B7EE1FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B09527ED-302B-4F79-A97C-3F05B7EE1FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A1ED13-3BFD-45BD-912A-A6954916C3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A1ED13-3BFD-45BD-912A-A6954916C3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A1ED13-3BFD-45BD-912A-A6954916C3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A1ED13-3BFD-45BD-912A-A6954916C3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF737B27-FAE1-41BD-B0F6-44E1BC1088F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF737B27-FAE1-41BD-B0F6-44E1BC1088F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF737B27-FAE1-41BD-B0F6-44E1BC1088F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF737B27-FAE1-41BD-B0F6-44E1BC1088F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
