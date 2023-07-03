@@ -17,10 +17,10 @@
 
             if (b > a || c > a || d > a)
                 participantsFront++;
-            //if (c > a)
-            //    participantsFront++;
-            //if (d > a)
-            //    participantsFront++;
+            if (c > a)
+                participantsFront++;
+            if (d > a)
+                participantsFront++;
 
             Console.WriteLine(participantsFront);
 
