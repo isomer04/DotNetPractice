@@ -11,7 +11,7 @@
             int h = int.Parse(inputStrArray[0]);
             int m = int.Parse(inputStrArray[1]);
 
-            int output = (24 * 60) - (h  * m);
+            int output = (24 * 60) - (h  * 60 +  m);
 
             Console.WriteLine(output);
 
