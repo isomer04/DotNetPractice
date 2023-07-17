@@ -3,10 +3,18 @@
 
 using System.Collections.Generic;
 
-(string name, int age) lists = ("James wagner", 25);
+List<(string name, int age)> lists = new List<(string name, int age)>();
+
+lists.Add(("James wagner", 25));
+lists.Add(("Jackson Heights", 45));
+lists.Add(("Ray White", 24));
 
 
-foreach ( list<string, int> in lists)
+
+
+
+foreach ((string name, int age) list in lists)
 {
     Console.WriteLine(list);
 }
+ 
