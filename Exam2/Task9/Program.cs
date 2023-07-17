@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Create a generic method named Reverse that takes a generic parameter. Apply constraint so that this parameter must be of type IList

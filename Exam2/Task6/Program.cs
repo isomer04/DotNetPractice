@@ -3,3 +3,4 @@
 
 (string name, int age) list = ("James wagner", 25);
 
+Console.WriteLine(list.ToString);
