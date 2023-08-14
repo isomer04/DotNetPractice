@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿//In this task, you're given a class AnalogToDigital. It has some methods. You have to convert all of the methods to lambda methods without changing the functionality. You shouldn’t make any unnecessary changes as well. 
