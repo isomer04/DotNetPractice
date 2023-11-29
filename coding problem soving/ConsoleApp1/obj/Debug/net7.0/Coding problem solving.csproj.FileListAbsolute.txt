@@ -1,0 +1,10 @@
+C:\Users\isome\Desktop\csharp\coding problem soving\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.csproj.AssemblyReference.cache
+C:\Users\isome\Desktop\csharp\coding problem soving\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isome\Desktop\csharp\coding problem soving\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.AssemblyInfoInputs.cache
+C:\Users\isome\Desktop\csharp\coding problem soving\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.AssemblyInfo.cs
+C:\Users\isome\Desktop\csharp\coding problem soving\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.csproj.CoreCompileInputs.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.csproj.AssemblyReference.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.AssemblyInfoInputs.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.AssemblyInfo.cs
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\obj\Debug\net7.0\Coding problem solving.csproj.CoreCompileInputs.cache
