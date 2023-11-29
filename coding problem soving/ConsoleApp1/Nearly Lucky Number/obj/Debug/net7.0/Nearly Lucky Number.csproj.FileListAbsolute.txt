@@ -1,0 +1,15 @@
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\bin\Debug\net7.0\Nearly Lucky Number.exe
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\bin\Debug\net7.0\Nearly Lucky Number.deps.json
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\bin\Debug\net7.0\Nearly Lucky Number.runtimeconfig.json
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\bin\Debug\net7.0\Nearly Lucky Number.dll
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\bin\Debug\net7.0\Nearly Lucky Number.pdb
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.csproj.AssemblyReference.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.AssemblyInfoInputs.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.AssemblyInfo.cs
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.csproj.CoreCompileInputs.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.dll
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\refint\Nearly Lucky Number.dll
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.pdb
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\Nearly Lucky Number.genruntimeconfig.cache
+C:\Users\isome\Desktop\csharp\DotNetPractice\coding problem soving\ConsoleApp1\Nearly Lucky Number\obj\Debug\net7.0\ref\Nearly Lucky Number.dll
